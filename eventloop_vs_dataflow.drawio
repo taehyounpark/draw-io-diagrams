@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T04:11:51.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="RwtrZzpqrSG92hNQfjMQ" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T04:18:03.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="aIt9jeJC01mXdV79iOfb" version="24.2.3" type="github">
   <diagram name="Page-1" id="x4Z9gdXSY7LWlNQllm9L">
     <mxGraphModel dx="2844" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="qdCa6enNUy9_szCfIRxY-29" value="Event Store" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qdCa6enNUy9_szCfIRxY-35" value="(systematic variation)" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="qdCa6enNUy9_szCfIRxY-35" value="(systematic variations)" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="225" y="80" width="280" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qdCa6enNUy9_szCfIRxY-50" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
